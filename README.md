@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### ![SophiaCringeGIF](https://user-images.githubusercontent.com/83575832/196380663-bfc6c224-114b-4787-8d86-4b799e77ef2c.gif)
-### I’m currently learning Machine Learning...
-### 🤖I’m looking to collaborate on AI Projects...
+
 <!--
 **Bubblu123/Bubblu123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
